@@ -4,8 +4,7 @@
     "type": "library",
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/socialite": "^5.15",
-        "illuminate/routing": "^8.0"
+        "laravel/socialite": "^5.15"
     },
     "license": "MIT",
     "autoload": {
