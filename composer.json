@@ -25,6 +25,5 @@
         "issues": "https://github.com/manikandan-1704/laravel-google-signin/issues",
         "source": "https://github.com/manikandan-1704/laravel-google-signin"
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
 }
