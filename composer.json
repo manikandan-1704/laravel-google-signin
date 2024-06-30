@@ -18,5 +18,11 @@
             "name": "Manikandan",
             "email": "manimk1704@gmail.com"
         }
-    ]
+    ],
+    "keywords": ["laravel", "google", "login", "oauth"],
+    "homepage": "https://github.com/manikandan-1704/laravel-google-signin",
+    "support": {
+        "issues": "https://github.com/manikandan-1704/laravel-google-signin/issues",
+        "source": "https://github.com/manikandan-1704/laravel-google-signin"
+    }
 }
